@@ -1,0 +1,5 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioForRestoIgual5\HelloWord\obj\Debug\net5.0\HelloWord.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioForRestoIgual5\HelloWord\obj\Debug\net5.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioForRestoIgual5\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioForRestoIgual5\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioForRestoIgual5\HelloWord\obj\Debug\net5.0\HelloWord.csproj.CoreCompileInputs.cache

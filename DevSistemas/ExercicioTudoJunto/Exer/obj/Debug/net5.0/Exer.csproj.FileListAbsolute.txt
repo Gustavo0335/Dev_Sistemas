@@ -1,0 +1,16 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\obj\Debug\net5.0\Exer.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\obj\Debug\net5.0\Exer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\obj\Debug\net5.0\Exer.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\obj\Debug\net5.0\Exer.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\obj\Debug\net5.0\Exer.csproj.CoreCompileInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\bin\Debug\net5.0\Exer.exe
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\bin\Debug\net5.0\Exer.deps.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\bin\Debug\net5.0\Exer.runtimeconfig.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\bin\Debug\net5.0\Exer.runtimeconfig.dev.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\bin\Debug\net5.0\Exer.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\bin\Debug\net5.0\ref\Exer.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\bin\Debug\net5.0\Exer.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\obj\Debug\net5.0\Exer.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\obj\Debug\net5.0\ref\Exer.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\obj\Debug\net5.0\Exer.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExercicioTudoJunto\Exer\obj\Debug\net5.0\Exer.genruntimeconfig.cache

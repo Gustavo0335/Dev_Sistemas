@@ -1,0 +1,16 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\bin\Debug\net5.0\Escape.exe
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\bin\Debug\net5.0\Escape.deps.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\bin\Debug\net5.0\Escape.runtimeconfig.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\bin\Debug\net5.0\Escape.runtimeconfig.dev.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\bin\Debug\net5.0\Escape.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\bin\Debug\net5.0\ref\Escape.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\bin\Debug\net5.0\Escape.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\obj\Debug\net5.0\Escape.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\obj\Debug\net5.0\Escape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\obj\Debug\net5.0\Escape.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\obj\Debug\net5.0\Escape.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\obj\Debug\net5.0\Escape.csproj.CoreCompileInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\obj\Debug\net5.0\Escape.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\obj\Debug\net5.0\ref\Escape.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\obj\Debug\net5.0\Escape.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Escape\Escape\obj\Debug\net5.0\Escape.genruntimeconfig.cache

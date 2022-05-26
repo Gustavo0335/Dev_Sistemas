@@ -1,0 +1,16 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\obj\Debug\net5.0\Exercicio29.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\obj\Debug\net5.0\Exercicio29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\obj\Debug\net5.0\Exercicio29.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\obj\Debug\net5.0\Exercicio29.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\obj\Debug\net5.0\Exercicio29.csproj.CoreCompileInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\bin\Debug\net5.0\Exercicio29.exe
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\bin\Debug\net5.0\Exercicio29.deps.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\bin\Debug\net5.0\Exercicio29.runtimeconfig.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\bin\Debug\net5.0\Exercicio29.runtimeconfig.dev.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\bin\Debug\net5.0\Exercicio29.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\bin\Debug\net5.0\ref\Exercicio29.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\bin\Debug\net5.0\Exercicio29.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\obj\Debug\net5.0\Exercicio29.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\obj\Debug\net5.0\ref\Exercicio29.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\obj\Debug\net5.0\Exercicio29.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exercicio29\obj\Debug\net5.0\Exercicio29.genruntimeconfig.cache

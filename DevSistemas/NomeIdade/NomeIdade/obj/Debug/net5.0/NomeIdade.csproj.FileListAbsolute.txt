@@ -1,0 +1,16 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\bin\Debug\net5.0\NomeIdade.exe
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\bin\Debug\net5.0\NomeIdade.deps.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\bin\Debug\net5.0\NomeIdade.runtimeconfig.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\bin\Debug\net5.0\NomeIdade.runtimeconfig.dev.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\bin\Debug\net5.0\NomeIdade.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\bin\Debug\net5.0\ref\NomeIdade.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\bin\Debug\net5.0\NomeIdade.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\obj\Debug\net5.0\NomeIdade.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\obj\Debug\net5.0\NomeIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\obj\Debug\net5.0\NomeIdade.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\obj\Debug\net5.0\NomeIdade.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\obj\Debug\net5.0\NomeIdade.csproj.CoreCompileInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\obj\Debug\net5.0\NomeIdade.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\obj\Debug\net5.0\ref\NomeIdade.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\obj\Debug\net5.0\NomeIdade.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\NomeIdade\NomeIdade\obj\Debug\net5.0\NomeIdade.genruntimeconfig.cache

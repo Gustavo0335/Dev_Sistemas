@@ -1,0 +1,16 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\bin\Debug\net5.0\MediaFinal.exe
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\bin\Debug\net5.0\MediaFinal.deps.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\bin\Debug\net5.0\MediaFinal.runtimeconfig.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\bin\Debug\net5.0\MediaFinal.runtimeconfig.dev.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\bin\Debug\net5.0\MediaFinal.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\bin\Debug\net5.0\ref\MediaFinal.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\bin\Debug\net5.0\MediaFinal.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\obj\Debug\net5.0\MediaFinal.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\obj\Debug\net5.0\MediaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\obj\Debug\net5.0\MediaFinal.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\obj\Debug\net5.0\MediaFinal.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\obj\Debug\net5.0\MediaFinal.csproj.CoreCompileInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\obj\Debug\net5.0\MediaFinal.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\obj\Debug\net5.0\ref\MediaFinal.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\obj\Debug\net5.0\MediaFinal.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\MediaFinal\MediaFinal\obj\Debug\net5.0\MediaFinal.genruntimeconfig.cache

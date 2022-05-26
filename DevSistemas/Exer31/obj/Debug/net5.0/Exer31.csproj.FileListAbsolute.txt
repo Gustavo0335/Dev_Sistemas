@@ -1,0 +1,16 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\bin\Debug\net5.0\Exer31.exe
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\bin\Debug\net5.0\Exer31.deps.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\bin\Debug\net5.0\Exer31.runtimeconfig.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\bin\Debug\net5.0\Exer31.runtimeconfig.dev.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\bin\Debug\net5.0\Exer31.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\bin\Debug\net5.0\ref\Exer31.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\bin\Debug\net5.0\Exer31.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\obj\Debug\net5.0\Exer31.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\obj\Debug\net5.0\Exer31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\obj\Debug\net5.0\Exer31.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\obj\Debug\net5.0\Exer31.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\obj\Debug\net5.0\Exer31.csproj.CoreCompileInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\obj\Debug\net5.0\Exer31.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\obj\Debug\net5.0\ref\Exer31.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\obj\Debug\net5.0\Exer31.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\Exer31\obj\Debug\net5.0\Exer31.genruntimeconfig.cache

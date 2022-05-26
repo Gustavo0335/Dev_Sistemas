@@ -1,0 +1,16 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\bin\Debug\net5.0\ExemploBreakProblema.exe
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\bin\Debug\net5.0\ExemploBreakProblema.deps.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\bin\Debug\net5.0\ExemploBreakProblema.runtimeconfig.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\bin\Debug\net5.0\ExemploBreakProblema.runtimeconfig.dev.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\bin\Debug\net5.0\ExemploBreakProblema.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\bin\Debug\net5.0\ref\ExemploBreakProblema.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\bin\Debug\net5.0\ExemploBreakProblema.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\obj\Debug\net5.0\ExemploBreakProblema.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\obj\Debug\net5.0\ExemploBreakProblema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\obj\Debug\net5.0\ExemploBreakProblema.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\obj\Debug\net5.0\ExemploBreakProblema.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\obj\Debug\net5.0\ExemploBreakProblema.csproj.CoreCompileInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\obj\Debug\net5.0\ExemploBreakProblema.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\obj\Debug\net5.0\ref\ExemploBreakProblema.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\obj\Debug\net5.0\ExemploBreakProblema.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\ExemploBreakProblema\ExemploBreakProblema\obj\Debug\net5.0\ExemploBreakProblema.genruntimeconfig.cache

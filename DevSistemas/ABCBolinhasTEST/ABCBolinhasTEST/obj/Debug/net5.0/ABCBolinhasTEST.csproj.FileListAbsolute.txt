@@ -1,0 +1,15 @@
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\bin\Debug\net5.0\ABCBolinhasTEST.exe
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\bin\Debug\net5.0\ABCBolinhasTEST.deps.json
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\bin\Debug\net5.0\ABCBolinhasTEST.runtimeconfig.json
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\bin\Debug\net5.0\ABCBolinhasTEST.runtimeconfig.dev.json
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\bin\Debug\net5.0\ABCBolinhasTEST.dll
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\bin\Debug\net5.0\ref\ABCBolinhasTEST.dll
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\bin\Debug\net5.0\ABCBolinhasTEST.pdb
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\obj\Debug\net5.0\ABCBolinhasTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\obj\Debug\net5.0\ABCBolinhasTEST.AssemblyInfoInputs.cache
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\obj\Debug\net5.0\ABCBolinhasTEST.AssemblyInfo.cs
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\obj\Debug\net5.0\ABCBolinhasTEST.csproj.CoreCompileInputs.cache
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\obj\Debug\net5.0\ABCBolinhasTEST.dll
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\obj\Debug\net5.0\ref\ABCBolinhasTEST.dll
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\obj\Debug\net5.0\ABCBolinhasTEST.pdb
+C:\Users\luiz.gomes1\OneDrive - SENAC-SC\DevSistemas\ABCBolinhasTEST\ABCBolinhasTEST\obj\Debug\net5.0\ABCBolinhasTEST.genruntimeconfig.cache

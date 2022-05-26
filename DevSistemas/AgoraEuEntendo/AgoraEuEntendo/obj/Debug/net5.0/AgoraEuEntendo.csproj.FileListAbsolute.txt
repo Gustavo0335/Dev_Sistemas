@@ -1,0 +1,16 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\bin\Debug\net5.0\AgoraEuEntendo.exe
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\bin\Debug\net5.0\AgoraEuEntendo.deps.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\bin\Debug\net5.0\AgoraEuEntendo.runtimeconfig.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\bin\Debug\net5.0\AgoraEuEntendo.runtimeconfig.dev.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\bin\Debug\net5.0\AgoraEuEntendo.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\bin\Debug\net5.0\ref\AgoraEuEntendo.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\bin\Debug\net5.0\AgoraEuEntendo.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\obj\Debug\net5.0\AgoraEuEntendo.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\obj\Debug\net5.0\AgoraEuEntendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\obj\Debug\net5.0\AgoraEuEntendo.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\obj\Debug\net5.0\AgoraEuEntendo.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\obj\Debug\net5.0\AgoraEuEntendo.csproj.CoreCompileInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\obj\Debug\net5.0\AgoraEuEntendo.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\obj\Debug\net5.0\ref\AgoraEuEntendo.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\obj\Debug\net5.0\AgoraEuEntendo.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\AgoraEuEntendo\AgoraEuEntendo\obj\Debug\net5.0\AgoraEuEntendo.genruntimeconfig.cache

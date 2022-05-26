@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbf14eb8-dac5-41ca-8bfe-a02ab63fe9ef": {
+      "ProjectGuid": "bbf14eb8-dac5-41ca-8bfe-a02ab63fe9ef",
+      "DisplayName": "Agenda",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

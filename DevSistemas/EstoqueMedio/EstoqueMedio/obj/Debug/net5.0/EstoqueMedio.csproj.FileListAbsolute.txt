@@ -1,0 +1,16 @@
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\bin\Debug\net5.0\EstoqueMedio.exe
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\bin\Debug\net5.0\EstoqueMedio.deps.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\bin\Debug\net5.0\EstoqueMedio.runtimeconfig.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\bin\Debug\net5.0\EstoqueMedio.runtimeconfig.dev.json
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\bin\Debug\net5.0\EstoqueMedio.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\bin\Debug\net5.0\ref\EstoqueMedio.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\bin\Debug\net5.0\EstoqueMedio.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\obj\Debug\net5.0\EstoqueMedio.csproj.AssemblyReference.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\obj\Debug\net5.0\EstoqueMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\obj\Debug\net5.0\EstoqueMedio.AssemblyInfoInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\obj\Debug\net5.0\EstoqueMedio.AssemblyInfo.cs
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\obj\Debug\net5.0\EstoqueMedio.csproj.CoreCompileInputs.cache
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\obj\Debug\net5.0\EstoqueMedio.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\obj\Debug\net5.0\ref\EstoqueMedio.dll
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\obj\Debug\net5.0\EstoqueMedio.pdb
+C:\Users\guga2\OneDrive - SENAC-SC\DevSistemas\EstoqueMedio\EstoqueMedio\obj\Debug\net5.0\EstoqueMedio.genruntimeconfig.cache
